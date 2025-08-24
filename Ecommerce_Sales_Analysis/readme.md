@@ -6,6 +6,8 @@
 
 This project presents a modern, executive-ready Power BI dashboard that transforms raw e-commerce data into strategic business insights. Designed with a focus on user experience and data storytelling, it provides a complete view of business performance in a single, interactive interface.
 
+![E-Commerce Dashboard Preview](image.png)
+
 ## Business Impact
 
 The dashboard addresses critical business questions that drive strategic decisions:
